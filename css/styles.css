@@ -3,7 +3,8 @@
 body{ 
     background-color: mediumturquoise;
     color:lawngreen;
-    background-image: url("../img/mouf.jpg");
+    background-image: url("../img/mouf.png");
+    cursor: url("../img/tooth.png"), auto;
 }
  
 h1{
@@ -28,11 +29,12 @@ h2{
 p{
   color:brown;
   font-size: 30px;
-  margin-left: 20px;
+  margin-left: 45%;
 }
 
 img{
   margin-left: 15%;
+  margin-bottom: 50%;
 
 }
 
