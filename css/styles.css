@@ -3,7 +3,7 @@
 body{ 
     background-color: mediumturquoise;
     color:lawngreen;
-    background-image: url("../img/mouf.jpeg");
+    background-image: url("../img/mouf.jpg");
 }
  
 h1{
@@ -30,3 +30,9 @@ p{
   font-size: 30px;
   margin-left: 20px;
 }
+
+img{
+  margin-left: 15%;
+
+}
+
