@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arizonia&family=Barriecito&display=swap');
 body{ 
-    background-color: mediumturquoise;
+    background-color:cornsilk;
     color:lawngreen;
     background-image: url("../img/mouf.png");
-    cursor: url("../img/tooth.png"), auto;
+    cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='70' height='80' viewport='0 0 100 100' style='fill:black;font-size:40px;'><text y='45%'>🦷</text></svg>") 16 0,auto; 
 }
  
 h1{
@@ -35,6 +35,8 @@ p{
 img{
   margin-left: 15%;
   margin-bottom: 50%;
+  position: ;
 
 }
+
 
